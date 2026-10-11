@@ -1,0 +1,6 @@
+@paystream_HostAddress = http://localhost:5028
+
+GET {{paystream_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
